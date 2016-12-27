@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "Inversion Of Control\InversionOfControl.csproj", "{D70698F4-627E-4574-AEC3-1366942D8F22}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingAndTracing", "Logging and Tracing\LoggingAndTracing.csproj", "{5B4C3965-1E1A-49B6-B4BA-0890C6311702}"
